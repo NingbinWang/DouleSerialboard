@@ -1,0 +1,31 @@
+Altium Designer Pick and Place Locations
+E:\06github\DoubleSerial\1.Hardware\Project Outputs for DoubleSerial\Pick Place for DoubleSerial.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       30/03/22
+Time:       01:20
+Revision:   dbeebff167e756f9fff36a410a3c3ab331886e48
+Variant:    No variations
+Units used: mil
+
+Designator Comment               Layer    Footprint     Center-X(mil) Center-Y(mil) Rotation Description          
+Y2         XTAL                  TopLayer XTAL_socket   445.000       670.000       90       "Crystal Oscillator" 
+Y1         XTAL                  TopLayer XTAL_socket   365.000       95.000        180      "Crystal Oscillator" 
+USB1       TYPE-C16PIN           TopLayer TYPE-C-SMD    155.000       395.001       270      ""                   
+U2         CH340                 TopLayer SOP-16_L10.0  758.100       645.000       270      "USB to serial"      
+U1         CH340                 TopLayer SOP-16_L10.0  763.100       210.000       270      "USB to serial"      
+R2         "5.1K¶∏ (5101) °¿1%"    TopLayer 0402_R        370.000       430.000       0        Ã˘∆¨µÁ◊Ë                 
+R1         "5.1K¶∏ (5101) °¿1%"    TopLayer 0402_R        370.000       335.000       0        Ã˘∆¨µÁ◊Ë                 
+F1         ASMD0805-050          TopLayer ASMD0805      170.020       685.000       0        ""                   
+CN2        PH-4A                 TopLayer CONN-TH_PH-4A 1055.000      658.100       270      ""                   
+CN1        PH-4A                 TopLayer CONN-TH_PH-4A 1055.000      220.600       270      ""                   
+C8         "22pF (220) 5% 50V"   TopLayer 0402_C        565.000       433.268       90       Ã˘∆¨µÁ»›                 
+C7         "22pF (220) 5% 50V"   TopLayer 0402_C        570.000       540.000       270      Ã˘∆¨µÁ»›                 
+C6         "100nF (104) 10% 16V" TopLayer 0402_C        315.000       551.732       90       Ã˘∆¨µÁ»›                 
+C5         "10uF (106) 20% 6.3V" TopLayer 0402_C        320.000       676.732       90       Ã˘∆¨µÁ»›                 
+C4         "100nF (104) 10% 16V" TopLayer 0402_C        570.000       690.000       90       Ã˘∆¨µÁ»›                 
+C3         "22pF (220) 5% 50V"   TopLayer 0402_C        430.000       215.000       0        Ã˘∆¨µÁ»›                 
+C2         "22pF (220) 5% 50V"   TopLayer 0402_C        333.268       215.000       0        Ã˘∆¨µÁ»›                 
+C1         "100nF (104) 10% 16V" TopLayer 0402_C        521.732       215.000       180      Ã˘∆¨µÁ»›                 
