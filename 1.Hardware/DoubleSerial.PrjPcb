@@ -132,66 +132,82 @@ GenerateClassCluster=0
 DocumentUniqueId=XSBBKCXW
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for DoubleSerial\DoubleSerial.EXTREP
+DocumentPath=Project Outputs for DoubleSerial\DoubleSerial-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for DoubleSerial\DoubleSerial.GBL
+DocumentPath=Project Outputs for DoubleSerial\DoubleSerial-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for DoubleSerial\DoubleSerial.GBO
+DocumentPath=Project Outputs for DoubleSerial\DoubleSerial.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for DoubleSerial\DoubleSerial.GBP
+DocumentPath=Project Outputs for DoubleSerial\DoubleSerial.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for DoubleSerial\DoubleSerial.GBS
+DocumentPath=Project Outputs for DoubleSerial\DoubleSerial.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for DoubleSerial\DoubleSerial.GD1
+DocumentPath=Project Outputs for DoubleSerial\DoubleSerial.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for DoubleSerial\DoubleSerial.GG1
+DocumentPath=Project Outputs for DoubleSerial\DoubleSerial.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for DoubleSerial\DoubleSerial.GM1
+DocumentPath=Project Outputs for DoubleSerial\DoubleSerial.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for DoubleSerial\DoubleSerial.GPB
+DocumentPath=Project Outputs for DoubleSerial\DoubleSerial.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for DoubleSerial\DoubleSerial.GPT
+DocumentPath=Project Outputs for DoubleSerial\DoubleSerial.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for DoubleSerial\DoubleSerial.GTL
+DocumentPath=Project Outputs for DoubleSerial\DoubleSerial.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for DoubleSerial\DoubleSerial.GTO
+DocumentPath=Project Outputs for DoubleSerial\DoubleSerial.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for DoubleSerial\DoubleSerial.GTP
+DocumentPath=Project Outputs for DoubleSerial\DoubleSerial.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for DoubleSerial\DoubleSerial.GTS
+DocumentPath=Project Outputs for DoubleSerial\DoubleSerial.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for DoubleSerial\DoubleSerial.REP
+DocumentPath=Project Outputs for DoubleSerial\DoubleSerial.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument16]
+DocumentPath=Project Outputs for DoubleSerial\DoubleSerial.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for DoubleSerial\DoubleSerial.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for DoubleSerial\DoubleSerial.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for DoubleSerial\DoubleSerial.REP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
 DocumentPath=Project Outputs for DoubleSerial\DoubleSerial.RUL
 DItemRevisionGUID=
 
